@@ -1,0 +1,7 @@
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe.config
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\bin\Debug\Proyecto3.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.AssemblyReference.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\obj\Debug\Proyecto3.exe
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto3\Proyecto3\obj\Debug\Proyecto3.pdb
